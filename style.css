@@ -1,3 +1,17 @@
-h1{
-    color: aqua;
+body{
+    background-color: darkgray;
+}
+
+
+
+#head{
+    color: darkgreen;
+    text-align: center;
+}
+.input{
+    position: relative;
+    left: 40%;
+}
+.h{
+    margin-top: 10px;
 }
